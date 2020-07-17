@@ -1,3 +1,3 @@
-# Harry Brown
+# Hi, i'm Harry
 
-Hello, I like coding or whatever
+I like to code or whatever
