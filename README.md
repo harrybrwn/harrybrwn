@@ -1,3 +1,3 @@
 # Hi, i'm Harry
 
-I like to code or whatever
+I like to code and stuff
